@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-11T20:56:26.422Z",
+  "generated_at": "2026-09-11T23:11:56.667Z",
   "products": [
     {
       "id": "structures-vol1",
@@ -15,6 +15,16 @@
       "preview": "assets/pack-structures-vol1.jpg",
       "download": null,
       "checkout_url": null,
+      "image_dimensions": [
+        "1024x1536"
+      ],
+      "motion_dimensions": [
+        "544x960"
+      ],
+      "motion_duration_range_s": [
+        2.333,
+        8
+      ],
       "qa_pass": true
     },
     {
@@ -30,6 +40,16 @@
       "preview": "assets/pack-structures-sampler.jpg",
       "download": "downloads/structures-sampler-v1.0.0.zip",
       "checkout_url": null,
+      "image_dimensions": [
+        "1024x1536"
+      ],
+      "motion_dimensions": [
+        "544x960"
+      ],
+      "motion_duration_range_s": [
+        3.75,
+        5.167
+      ],
       "qa_pass": true
     }
   ]
