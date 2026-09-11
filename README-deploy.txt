@@ -1,6 +1,6 @@
 LOAD PATH STATIC STOREFRONT
 
-Generated: 2026-09-11T23:11:56.670Z
+Generated: 2026-09-11T23:15:23.203Z
 This directory is safe to publish as static files.
 Paid product ZIPs are intentionally NOT copied here.
 Free sampler ZIPs are copied under downloads/.
