@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "generated_at": "2026-09-11T20:56:26.422Z",
+  "products": [
+    {
+      "id": "structures-vol1",
+      "version": "1.0.0",
+      "name": "Impossible Engineering — Structures Vol. 1",
+      "kind": "paid",
+      "price_usd": 39,
+      "tagline": "Original engineering reconstruction stills and motion clips from Load Path.",
+      "images": 80,
+      "motion": 20,
+      "stories": 10,
+      "preview": "assets/pack-structures-vol1.jpg",
+      "download": null,
+      "checkout_url": null,
+      "qa_pass": true
+    },
+    {
+      "id": "structures-sampler",
+      "version": "1.0.0",
+      "name": "Impossible Engineering — Free Sampler",
+      "kind": "free",
+      "price_usd": 0,
+      "tagline": "A small commercial-use sampler from the Load Path engineering visual library.",
+      "images": 10,
+      "motion": 3,
+      "stories": 5,
+      "preview": "assets/pack-structures-sampler.jpg",
+      "download": "downloads/structures-sampler-v1.0.0.zip",
+      "checkout_url": null,
+      "qa_pass": true
+    }
+  ]
+}
